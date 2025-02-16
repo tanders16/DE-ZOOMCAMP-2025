@@ -1,6 +1,6 @@
 # DLT WORKSHOP Homework: 
 
-See pipeline for all code to derive answers: [nytaxi_load_duckdb.py](DE-ZOOMCAMP-2025/workshop-dlt/nytaxi_load_duckdb.py)
+See pipeline for all code to derive answers: [nytaxi_load_duckdb.py](https://github.com/tanders16/DE-ZOOMCAMP-2025/blob/module_1/DE-ZOOMCAMP-2025/workshop-dlt/nytaxi_load_duckdb.py)
 
 **Question 1. Install DLT, identify version number?**
 
